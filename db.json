@@ -1,0 +1,8 @@
+{
+    "emploees":[{
+        "id":1,
+        "username":"Rohan",
+        "email":"r@gmail.com",
+        "password":123
+    }]
+}
